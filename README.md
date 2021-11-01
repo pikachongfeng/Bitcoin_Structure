@@ -2,5 +2,4 @@
  
 
 
-##比特币结构
-包括MerkleTree, Block, PrivateKey, PublicKey, Address, Account的结构
+including the structure of MerkleTree, Block, PrivateKey, PublicKey, Address, Account
